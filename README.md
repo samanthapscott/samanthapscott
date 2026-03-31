@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:003566,100:00b4d8&height=200&section=header&text=Samantha%20Scott&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20FIU%20%7C%20Class%20of%20December%202025&descSize=16&descAlignY=56&descColor=caf0f8" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Senior+Computer+Engineering+Student;Hardware+%2B+Software+Engineer;FPGA+%7C+Microcontrollers+%7C+Embedded+Systems;Building+at+the+intersection+of+circuits+%26+code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Senior+Computer+Engineering+Student;Hardware+%2B+Software+Engineer;FPGA+%7C+Microcontrollers+%7C+Embedded+Systems;Building+at+the+intersection+of+circuits+%26+code" alt="Typing SVG"/>
 
 </div>
 
